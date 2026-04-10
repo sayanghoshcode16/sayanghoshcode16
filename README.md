@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanghoshcode16&label=Profile%20views&color=0e75b6&style=flat" alt="sayanghoshcode16" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanghoshcode16&theme=radical&no-frame=true&row=1&column=8&margin-w=15" alt="sayanghoshcode16" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/sayan-ghosh-71481132b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sayan Ghosh LinkedIn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sayan42646" target="blank"><img src="https://img.shields.io/twitter/follow/Sayan42646?logo=twitter&style=for-the-badge" alt="Sayan42646" /></a> </p>
 
 - 📫 How to reach me **sayanghosh123466@gmail.com**
 
